@@ -27,7 +27,7 @@ Codewars is very similar to CheckiO in many ways. However, there are a few major
 Here are a few sites that are similar to the challenges in the sites above, but have more of a focus on showing off your skills to employers or other programmers.
 
 ### HackerRank - https://www.hackerrank.com/
-Probably one of the most well-known sites for showing off your skills. It’s 
+Probably one of the most well-known sites for showing off your skills. It’s one of the first sites to offer challenges, and one of the first to utilize the challenge/competition approach for companies to find the talent that they're looking for.
 
 ### Triplebyte - https://triplebyte.com/
 They tend to focus on how annoying it is to send resumes and do coding challenges for tons of companies, seemingly over and over. Take tests to certify your skills, solve challenges, and get hired as a developer. They also emphasize to companies how much more efficient it is to find good programmers by actually testing for the skills you want, instead of just trying to sift through hundreds of resumes.
