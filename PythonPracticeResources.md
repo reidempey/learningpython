@@ -36,6 +36,6 @@ They tend to focus on how annoying it is to send resumes and do coding challenge
 Used to be called CodeFights, and used to focus more on the competition of solving challenges against other coders. Now, they’ve shifted as well towards catering to tech companies looking for developers.
 
 ## Closing Thoughts
-There are tons of other platforms out there. Often, you can find out what the newest services are my typing in a common site like HackerRank into a Google search, and then look at the ads to see who is currently trying to compete with them, and take a bite out of HR’s market share.
+There are tons of other platforms out there. Often, you can find out what the newest services are by Googling a common site like HackerRank, and then look at the ads to see who is currently trying to compete with them, and take a bite out of HR’s market share.
 
 If you find anything else that you find particularly helpful, feel free to add it to this thread. We’re all in the same boat:)
